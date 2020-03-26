@@ -2,9 +2,9 @@
 
 ## Setup:
 
-Clone the repository or download the zip folder
+Clone the repository or download the zip folder.
 
-In order to make sure you have all packages:
+Run the following:
 
     pip install -r requirements.txt
     
