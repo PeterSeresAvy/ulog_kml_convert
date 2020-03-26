@@ -4,11 +4,21 @@
 
 Clone the repository or download the zip folder.
 
-Run the following:
+    python -m venv venv
+
+Windows:
+
+    venv\scripts\activate
+
+Linux:
+
+    source venv/scripts/activate
+
+Packages:   
 
     pip install -r requirements.txt
     
-## Use:
+## Usage:
 
 Go to the project's folder and run:
 
